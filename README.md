@@ -1,9 +1,9 @@
-# Web3-collaboration
-This is a public repository to help coordinate our collaboration efforts with teams working in the Web 3 ecosystem. In order to build a better web, the Web3 Foundation will help to coordinate the efforts of teams working towards this common goal. The coordination of efforts will include helping to connect teams, cross-promote the products and protocols, as well as provide strategic grants.
+# Buidling a Local NEO Community
+This is a public repository to help coordinate previous collaboration efforts with establishing a NEO community where organizers are located. These collaboration efforts include identifying local community leaders, helping to connect teams, cross-promoting NEO and local projects, as well as provide further information about applying potential grants.
 
-Our view is that the Polkadot platform will play a pivotal role in the Web 3 ecosystem. To get a better idea of how we think about the ecosystem, we invite you to look at our proposed [Web 3 tech stack](https://github.com/w3f/Web3-wiki/wiki/Tech-Stack).
+[NEO Colorado](https://www.meetup.com/NEO-Colorado/events/264816080/). will play a pivotal role as a use case for establishing these sets of guidelines for building a local NEO community.
 
-## About us - Web3 Foundation
+## About us - NEO Colorado
 For more information about the Web3 Foundation please visit the ["About Us"](https://github.com/w3f/Web3-wiki/wiki/Web3-Mission-and-Background/_edit) page on our wiki. 
 
 ## How this repo will be used
